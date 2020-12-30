@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">HMSMultiKits</string>
+
+
+    <string name="main_page_home">Home</string>
+    <string name="main_page_supermarket">Supermarket</string>
+    <string name="main_page_hotel">Hotel</string>
+    <string name="main_page_restaurant">Restaurant</string>
+    <string name="main_page_shopping_mall">Shopping mall</string>
+    <string name="main_page_hair_care">Hair care</string>
+    <string name="main_page_movie">Movie</string>
+    <string name="main_page_flower">Flower</string>
+    <string name="main_page_pet">Pet</string>
+    <string name="main_page_location">Location</string>
+
+
+    <string name="place_list_page">Place list</string>
+
+    <string name="place_detail_page">Place details</string>
+    <string name="place_detail_page_title">Place details:</string>
+    <string name="place_detail_place_id">Place ID:</string>
+    <string name="place_detail_longitude">Longitude:</string>
+    <string name="place_detail_latitude">Latitude:</string>
+    <string name="place_detail_website">Website:</string>
+    <string name="place_detail_phone_number">Phone number:</string>
+
+    <string name="route_planning_page">Route planning</string>
+    <string name="route_planning_driving">Driving</string>
+    <string name="route_planning_cycling">Cycling</string>
+    <string name="route_planning_walking">Walking</string>
+    <string name="route_planning_time">Time:</string>
+    <string name="route_planning_distance">Distance:</string>
+    <string name="common_locating">Locating...</string>
+</resources>

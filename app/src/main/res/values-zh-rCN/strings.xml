@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">HMSMultiKits</string>
+
+
+    <string name="main_page_home">首页</string>
+    <string name="main_page_supermarket">超市</string>
+    <string name="main_page_hotel">酒店</string>
+    <string name="main_page_restaurant">美食</string>
+    <string name="main_page_shopping_mall">商场</string>
+    <string name="main_page_hair_care">美发</string>
+    <string name="main_page_movie">电影</string>
+    <string name="main_page_flower">鲜花</string>
+    <string name="main_page_pet">宠物</string>
+    <string name="main_page_location">定位</string>
+
+
+    <string name="place_list_page">地点列表</string>
+
+    <string name="place_detail_page">地点详情</string>
+    <string name="place_detail_page_title">地点详情:</string>
+    <string name="place_detail_place_id">地点ID:</string>
+    <string name="place_detail_longitude">经度:</string>
+    <string name="place_detail_latitude">纬度:</string>
+    <string name="place_detail_website">网址:</string>
+    <string name="place_detail_phone_number">号码:</string>
+
+    <string name="route_planning_page">路径规划</string>
+    <string name="route_planning_driving">驾车</string>
+    <string name="route_planning_cycling">骑行</string>
+    <string name="route_planning_walking">步行</string>
+    <string name="route_planning_time">时间:</string>
+    <string name="route_planning_distance">距离:</string>
+    <string name="common_locating">定位中...</string>
+</resources>
