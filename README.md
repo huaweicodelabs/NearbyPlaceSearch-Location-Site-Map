@@ -6,7 +6,7 @@
  * [Introduction](#introduction)
  * [Installation](#installation)
  * [Supported Environments](#supported-environments)
- * [Sample Code](# Sample Code)
+ * [Sample Code](#Sample-Code)
  * [License](#license)
 
 
@@ -39,27 +39,27 @@
 
     1). Assigning App Permissions
     You need to apply for the permissions in the Manifest file.
-    Code £ºHMSMultiKits/app/src/AndroidManifest.xml
+    Code:HMSMultiKits/app/src/AndroidManifest.xml
     
     2). Locating function development.
     Obtains the current location information.
-    Code £ºHMSMultiKits/app/src/main/java/com/huawei/multikits/java/activity/MainActivity.java
-    Code £ºHMSMultiKits/app/src/main/java/com/huawei/multikits/kotlin/activity/MainActivity.kt
+    Code:HMSMultiKits/app/src/main/java/com/huawei/multikits/java/activity/MainActivity.java
+    Code:HMSMultiKits/app/src/main/java/com/huawei/multikits/kotlin/activity/MainActivity.kt
 
     3). Get the list of surrounding locations.
     Using the NearbySearchRequest object to obtain the list of surrounding locations.
-    Code £ºHMSMultiKits/app/src/main/java/com/huawei/multikits/java/activity/AddressListActivity.java
-    Code £ºHMSMultiKits/app/src/main/java/com/huawei/multikits/kotlin/activity/AddressListActivity.kt
+    Code:HMSMultiKits/app/src/main/java/com/huawei/multikits/java/activity/AddressListActivity.java
+    Code:HMSMultiKits/app/src/main/java/com/huawei/multikits/kotlin/activity/AddressListActivity.kt
 
     4). Obtaining Location Details.
     Using the DetailSearchRequest object to obtain location details.
-    Code £ºHMSMultiKits/app/src/main/java/com/huawei/multikits/java/activity/AddressDetailActivity.java
-    Code £ºHMSMultiKits/app/src/main/java/com/huawei/multikits/kotlin/activity/AddressDetailActivity.kt
+    Code:HMSMultiKits/app/src/main/java/com/huawei/multikits/java/activity/AddressDetailActivity.java
+    Code:HMSMultiKits/app/src/main/java/com/huawei/multikits/kotlin/activity/AddressDetailActivity.kt
 
     5). Path Planning.
     Plan the paths for obtaining capabilities provided by Huawei Map..
-    Code £ºHMSMultiKits/app/src/main/java/com/huawei/multikits/java/activity/MapDetailActivity.java
-    Code £ºHMSMultiKits/app/src/main/java/com/huawei/multikits/kotlin/activity/MapDetailActivity.kt
+    Code:HMSMultiKits/app/src/main/java/com/huawei/multikits/java/activity/MapDetailActivity.java
+    Code:HMSMultiKits/app/src/main/java/com/huawei/multikits/kotlin/activity/MapDetailActivity.kt
 
 
 ##  License
